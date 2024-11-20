@@ -1,0 +1,57 @@
+    /* From Uiverse.io by Gautammsharma */ 
+    .input__container__variant {
+        background: linear-gradient(to bottom, #F3FFF9, #F3FFF9);
+        border-radius: 30px;
+        max-width: 13em;
+        padding: 1em 1em;
+        margin-top: 10%;
+    }
+    
+    .shadow__input__variant {
+        filter: blur(25px);
+        border-radius: 30px;
+        background-color: #F3FFF9;
+        opacity: 0.5;
+    }
+    
+    .input__button__shadow__variant {
+        border-radius: 15px;
+        background-color: #390654;
+        padding: 10px;
+        border: none;
+        color: rgba(240, 248, 255, 0.741);
+        margin-left: 25%;
+        top: 100px;
+    }
+    
+    .input__button__shadow__variant:hover {
+        background-color: #3C6659;
+        color: rgba(240, 248, 255, 0.3);
+
+    }
+    
+    .input__search__variant {
+        max-width: auto;
+        align-items: center;
+        border-radius: 13em;
+        outline: none;
+        border: none;
+        padding: 0.8em;
+        font-size: 1.2em;
+        color: #002019;
+        background-color: transparent;
+    }
+    
+    .input__search__variant::placeholder {
+        color: #002019;
+        opacity: 0.7;
+    }
+    
+    .input__container__variant {
+        background: linear-gradient(to bottom, rgb(137, 104, 255),rgb(175, 152, 255));
+        border-radius: 1.5em;
+        max-width: 40em;
+        padding: 7em;
+        box-shadow: 0em 1em 3em #beecdc64;
+    }
+    
